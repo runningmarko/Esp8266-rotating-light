@@ -1,0 +1,2 @@
+Arduino:
+MQTT library: https://github.com/knolleary/pubsubclient
